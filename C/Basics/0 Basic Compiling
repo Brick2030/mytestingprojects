@@ -1,0 +1,3 @@
+gcc sourcecode.c -o compiledname
+
+-o flag for setting name of compiled.
