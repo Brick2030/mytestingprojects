@@ -166,7 +166,7 @@ my_dict1 = {
 "name" : "Lain"
 "team" : "Knights"
 }
-
+```
 - Printing value of "name". if to compare to list, we use key instead of index to get a value:
 ```
 print(my_dict1["name"])
