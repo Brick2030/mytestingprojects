@@ -298,6 +298,26 @@ def load():
     return objects_array # return array
 ```
 
+## Dates
+Using timedate library. New to me and confusing. Adding this here.
+- importing it
+```
+from datetime import datetime
+```
+
+- Setting an object:
+```
+date = datetime(year, month, day)
+date_now = datetime.now()
+week_day = date.isocalendar().weekday
+```
+- Getting results
+```
+delta = (now_date - some_date).days # Days between 2 dates. dayS, not day.
+year = now_date.year
+day = now_date.day
+
+```
 
 
 
