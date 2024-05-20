@@ -1,0 +1,3 @@
+# g++ input.cpp -o output
+# g++ input.cpp -o output.exe // for windows
+
