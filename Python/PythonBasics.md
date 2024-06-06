@@ -3,6 +3,13 @@ Once again. Stuff for personal use. Im not coder and it's usuall stuff for me to
 
 ## General features
 
+- How to round floats
+```
+# x = 0.223232322
+round(x, 2)
+# x = 0.02
+```
+
 - How to get methods
 ```
 my_String = "python"
