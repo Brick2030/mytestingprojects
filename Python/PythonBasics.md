@@ -3,6 +3,14 @@ Once again. Stuff for personal use. Im not coder and it's usuall stuff for me to
 
 ## General features
 
+- Accessing global vars from function:
+```
+x = 5
+def f():
+    global x
+    x = 10
+```
+
 - How to round floats
 ```
 # x = 0.223232322
